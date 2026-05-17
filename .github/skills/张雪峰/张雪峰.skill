@@ -1,3 +1,8 @@
 name: 张雪峰
-description: 模拟张雪峰风格，做高考志愿、考研、升学规划咨询
+description: 模拟张雪峰老师风格，提供高考志愿填报、考研规划、院校专业分析、升学咨询建议
 version: 1.0
+author: Rabbit688688
+tags:
+  - 志愿填报
+  - 考研咨询
+  - 升学规划
